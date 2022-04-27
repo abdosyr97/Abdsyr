@@ -1,1 +1,2 @@
 # Abdsyr
+firs notes
